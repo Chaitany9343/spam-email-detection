@@ -1,0 +1,27 @@
+2. Run the notebooks in order:
+- 01 – Data exploration & preprocessing
+- 02 – Feature engineering & model training
+- 03 – Evaluation, testing & deployment
+
+---
+
+## 📈 Results
+
+The model achieves high accuracy (usually around 95%+) on the cleaned dataset.
+
+---
+
+## 🛠 Technologies Used
+
+- Python  
+- Jupyter Notebooks  
+- Pandas, NumPy  
+- scikit-learn  
+- NLTK  
+- Matplotlib, Seaborn  
+
+---
+
+## 📌 License
+
+This project is open-source — feel free to explore and enhance it!
